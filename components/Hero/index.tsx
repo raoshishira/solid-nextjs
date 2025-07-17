@@ -19,11 +19,11 @@ const Hero = () => {
                  Your Search For MBA Ends Here
               </h1>
               <h1 className="mb-4.5 text-4xl font-bold text-black dark:text-white">
-                At Nagarjuna Degree College <br></br> Yelahanka 
+                At Nagarjuna Degree College <br></br> Yelahanka
               </h1>
               <h2>
                 Awarded Best College of the Year 2023-24 
-                By Higher Education Review Magazine
+                <br></br>By Higher Education Review Magazine
               </h2>
             </div>
 
