@@ -13,11 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "Multiple Specialisations",
+              subtitle: "With 2 Core and 4 Additional Specialisations",
+              description: `Nagarjuna Degree College offers two core specialisations and teh student can choose another specialisation as per their interest.`,
             }}
           />
           {/* <!-- Section Title End --> */}

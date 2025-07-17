@@ -4,44 +4,44 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Crafted for SaaS",
+    title: "Finance (Core)",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "With an in-depth knowledge of Financial topics like Accountancy, Auditing, Budgeting Taxation and Investments, one can easily fit into the emerging Fintech markets.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "High-quality Design",
+    title: "Human Resource (Core)",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "The students opting for MBA in Human Resources will learn the fundamental laws of industrial relations, advanced concepts in human resource management, improving employee performance, leadership management, and grievance handling management.",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Next.js 13 + TypeScript",
+    title: "Productions and Operations Management",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "A Post Graduate Degree with a specialisation in Operations helps make informed decisions to optimise the profitability of the organisations by minimising costs.",
   },
   {
     id: 4,
     icon: "/images/icon/icon-04.svg",
-    title: "Sanity Blog and Docs",
+    title: "Marketing",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "In a competitive world with Global exposure, marketing becomes an inevitable skill for the day-to-day survival and existence of a company. It not only deals with selling products and services but also gives an edge in negotiations.",
   },
   {
     id: 5,
     icon: "/images/icon/icon-05.svg",
-    title: "DB, Auth and Stripe",
+    title: "Business Analytics",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Attain Core Management Skills and application of Analytics in - Finance, Marketing, Economics, Human Resources, Operations and Supply Chain, Machine Learning, and Big Data Technologies with Business Analytics as an elective.",
   },
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Regular Free Updates",
+    title: "Entrepreneurship and Start-Up Management",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor.",
+      "Start-up culture is growing exponentially across the globe with rapid growth in technology and advancement in Fintech. Be a part of this Start-up revolution by studying the concepts of Entrepreneurship with a recognised Post-Graduation Degree.",
   },
 ];
 
